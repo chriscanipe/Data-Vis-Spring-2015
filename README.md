@@ -1,6 +1,6 @@
 # Data-Vis-Spring-2015
 
-#### Week 1
+##### Week 1
 Set up Git, introduce work environment.
 	- Terminal
 	- Browser inspector

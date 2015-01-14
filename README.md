@@ -1,5 +1,17 @@
 # Data-Vis-Spring-2015
 
+##### About the course:
+Over these 8 weeks, we’re going to explore tools and principles that help us visualize data and tell stories for the web. There are a lot of ways to skin the proverbial cat, but we’re going to focus on basic JavaScript programming, everyday data formatting and visualization techniques that leverage modern libraries.
+
+
+##### Course goals:
+* Learn how to make things for the web using HTML, CSS and JavaScript
+* Learn how to work with data programmatically
+* Get comfortable with version control via GitHub
+* Learn how to utilize libraries and frameworks such as Bootstrap and D3.js
+* Discuss and understand the principles of data visualization and good interaction design
+* Build projects that incorporate tools and principles discussed in class
+
 ##### Week 1
 Set up Git, introduce work environment
 * Terminal basics

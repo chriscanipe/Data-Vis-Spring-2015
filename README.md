@@ -1,8 +1,7 @@
 # Data-Vis-Spring-2015
 
 ##### About the course:
-Over these 8 weeks, we’re going to explore tools and principles that help us visualize data and tell stories for the web. There are a lot of ways to skin the proverbial cat, but we’re going to focus on basic JavaScript programming, everyday data formatting and visualization techniques that leverage modern libraries.
-
+We’re going to explore tools and principles that help us visualize data and tell stories for the web. There are a lot of ways to skin the proverbial cat, but we’re going to focus on basic JavaScript programming, everyday data formatting and visualization techniques that leverage modern libraries. At the end of 8 weeks you’ll be expected to produce a reporting project that tells an interactive story using data.
 
 ##### Course goals:
 * Learn how to make things for the web using HTML, CSS and JavaScript
@@ -36,7 +35,8 @@ Introduction to libraries:
 Charting with D3.js
 * Simple bar or fever charts
 
-##### Weeks 5 - 8 (TBD, depending on progress)
-* Creating charts with d3
-* Layouts and labeling
-* Interaction design
+##### Weeks 5 - 8 (More details TK)
+* Pitch and develop your final project
+* Continue making charts with d3
+* Discuss layouts and labeling in depth
+* Discuss the principles of interaction design

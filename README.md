@@ -5,7 +5,7 @@
 **Instructor of record**: Mike Jenner, jennerm@missouri.edu, cell: (573) 808-4785
 **Office hours**: By appointment
  
-About the course:
+##### About the course:
 We’ll be exploring tools and principles that help us visualize data and tell stories online. There are a lot of ways to skin the proverbial cat, but we’re going to focus on basic JavaScript programming, everyday data formatting and visualization techniques that leverage the D3.js library. At the end of 8 weeks you’ll produce a reporting project that tells a story with data. The class will meet from 6-8 p.m. Tuesdays beginning Jan. 20 and ending March 10, 2015. Classes will meet in 247 Walter Williams. Students should bring their laptops to every class session. There is no textbook for this class; links to relevant readings will be shared with students.
 
  
@@ -44,7 +44,7 @@ Introduction to libraries:
 
 ##### Week 4
 Charting with D3.js
-* Simple bar or fever charts
+* Simple bars and fever charts
  
 
 ##### Weeks 5 - 8 (More details TK)
@@ -56,9 +56,9 @@ Charting with D3.js
 
 ##### Grading
 Grading will be based on the following components:
-* Three assignments     	                                	        	        	60 percent
-* Final project                                                    	           	        	30 percent
-* Class attendance, participation & engagement          	        	10 percent               	
+Three assignments | 60 percent
+Final project | 30 percent
+Class attendance, participation & engagement | 10 percent               	
 
 
 ##### Final Project

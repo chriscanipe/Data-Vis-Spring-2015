@@ -1,8 +1,8 @@
 ## Advanced Interactive Data Visualization, Spring 2015
 (Listed as Emerging Technologies, JOUR 4462 and 7462, Section 2)
  
-**Instructor**: Chris Canipe, ccanipe@gmail.com
-**Instructor of record**: Mike Jenner, jennerm@missouri.edu, cell: (573) 808-4785
+**Instructor**: Chris Canipe, ccanipe@gmail.com<br/>
+**Instructor of record**: Mike Jenner, jennerm@missouri.edu, cell: (573) 808-4785<br/>
 **Office hours**: By appointment
  
 ##### About the course:
@@ -56,9 +56,11 @@ Charting with D3.js
 
 ##### Grading
 Grading will be based on the following components:
-Three assignments | 60 percent
-Final project | 30 percent
-Class attendance, participation & engagement | 10 percent               	
+<table>
+<tr><td>Three assignments</td><td>60 percent</td></tr>
+<tr><td>Final project</td><td>30 percent</td></tr>
+<tr><td>Class attendance, participation & engagement</td><td>10 percent</td></tr>       
+</table>
 
 
 ##### Final Project
@@ -72,18 +74,18 @@ Graduate students will be given an additional assignment to earn graduate credit
  
 
 ##### Grading scale
-94-100% A 	
-90-93% A-
-88-89% B+ 	
-84-87% B
-80-83% B-
-78-79% C+
-74-77% C
-70-73% C-
-68-69% D+
-64-67% D
-63-60% D-
-59% & below
+94-100% A<br/> 	
+90-93% A-<br/>
+88-89% B+<br/>
+84-87% B<br/>
+80-83% B-<br/>
+78-79% C+<br/>
+74-77% C<br/>
+70-73% C-<br/>
+68-69% D+<br/>
+64-67% D<br/>
+63-60% D-<br/>
+59% & below<br/>
  
 This points scale will be used for undergrads and grad students; grades for graduate students may include plusses or minuses.
  

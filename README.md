@@ -64,7 +64,7 @@ Grading will be based on the following components:
 
 
 ##### Final Project
-The final project for this class involves creating a functional and useful Web app. The topics of these final projects will be the subject of much discussion throughout the semester, and students should begin thinking about their projects right away.  The topic will be chosen by the student but must be approved in advance by the instructors. Data will be gathered by the student. The deadline for submitting the completed final project will be 5 p.m. Friday, May 13. More information about this will be shared and discussed in class as the semester progresses.
+The final project for this class involves creating a functional interactive data visualization. The final project will be the subject of much discussion throughout the semester, and students should begin thinking about their projects right away.  The topic will be chosen by the student but must be approved in advance by the instructors. Data will be gathered by the student. The deadline for submitting the completed final project will be 5 p.m. Friday, March 13. More information about this will be shared and discussed in class as the semester progresses.
  
 There is no midterm or final exam for this course.
 

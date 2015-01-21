@@ -15,7 +15,7 @@ http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-par
 http://readwrite.com/2013/10/02/github-for-beginners-part-2
 
 
-**2) This week’s assignment** is to create a JSON data object from the baseball card I gave you in class. First things first, please read this tutorial on the JSON data format. http://www.w3schools.com/json/
+**2) This week’s assignment (DUE SATURDAY 1/24 AT NOON)** is to create a JSON data object from the baseball card I gave you in class. First things first, please read this tutorial on the JSON data format. http://www.w3schools.com/json/
 
 You can use my own example as a guide:
 https://github.com/chriscanipe/Data-Vis-Spring-2015/blob/master/week-1/js/baseballcard.json

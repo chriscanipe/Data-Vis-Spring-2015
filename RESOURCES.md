@@ -1,3 +1,6 @@
+****Recources****<br/>
+Some links and resources for reference during this class
+
 **Python Simple Server Set-up**<br/>
 http://www.pythonforbeginners.com/modules-in-python/how-to-use-simplehttpserver/
 

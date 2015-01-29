@@ -58,11 +58,13 @@ $ git push origin master
 </ol>
 
 
-**2) This week’s assignment** <span style="color: red">(DUE SATURDAY 1/31 AT NOON)</span> is to write the following content from your data to the page as we did in class:
+**2) This week’s assignment (DUE SATURDAY 1/31 AT NOON)** is to write the following content from your data to the page as we did in class:
 
-Player Name
-Player Team
-And one stat from their most recent season.
+<ul>
+<li>Player Name</li>
+<li>Player Team</li>
+<li>And one stat from their most recent season.</li>
+</ul>
 
 To help you with this assignment, I’ve created the following reference:
 https://github.com/chriscanipe/baseball-ajax/blob/master/js/script.js

@@ -2,7 +2,22 @@
 
 ###Week 2 Notes and Assignment
 
-**1. Make sure that you can create a repository and commit files to Git.** We will follow the same basic pattern for creating projects and saving them to our repositories during the course of this class. The pattern goes like this: 
+**1. This week’s assignment (DUE SATURDAY 1/31 AT NOON)** is to write the following content from your data to the page as we did in class:
+
+<ul>
+<li>Player Name</li>
+<li>Player Team</li>
+<li>And one stat from their most recent season.</li>
+</ul>
+
+To help you with this assignment, I’ve created the following reference:
+https://github.com/chriscanipe/baseball-ajax/blob/master/js/script.js
+
+You can see a published version of the page here:
+http://chriscanipe.com/data-vis-2015/baseball-card/
+
+
+**2. Make sure that you can create a repository and commit files to Git.** We will follow the same basic pattern for creating projects and saving them to our repositories during the course of this class. The pattern goes like this: 
 
 
  1. Start a new project by cloning the simple-web-app-template from my Git repository:
@@ -55,21 +70,6 @@
  6. Miller time!!
 
 
-
-
-**2. This week’s assignment (DUE SATURDAY 1/31 AT NOON)** is to write the following content from your data to the page as we did in class:
-
-<ul>
-<li>Player Name</li>
-<li>Player Team</li>
-<li>And one stat from their most recent season.</li>
-</ul>
-
-To help you with this assignment, I’ve created the following reference:
-https://github.com/chriscanipe/baseball-ajax/blob/master/js/script.js
-
-You can see a published version of the page here:
-http://chriscanipe.com/data-vis-2015/baseball-card/
 
 
 

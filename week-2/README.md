@@ -2,17 +2,16 @@
 
 ###Week 2 Notes and Assignment
 
-**1) Make sure that you can create a repository and commit files to Git.** We will follow the same basic pattern for creating projects and saving them to our repositories during the course of this class. The pattern goes like this: 
+**1. Make sure that you can create a repository and commit files to Git.** We will follow the same basic pattern for creating projects and saving them to our repositories during the course of this class. The pattern goes like this: 
 
 
+ 1. Start a new project by cloning the simple-web-app-template from my Git repository:
+ https://github.com/chriscanipe/web-app-template-simple
 
-Start a new project by cloning the simple-web-app-template from my Git repository:
-https://github.com/chriscanipe/web-app-template-simple
-
-In Terminal, navigate to your Sites folder and run the following command:
-```
-$ git clone https://github.com/chriscanipe/web-app-template-simple.git project-name
-```
+ In Terminal, navigate to your Sites folder and run the following command:
+ ```
+ $ git clone https://github.com/chriscanipe/web-app-template-simple.git project-name
+ ```
 
 
 Work within the template to write the code and work through examples we cover in class.
@@ -58,7 +57,7 @@ Miller time!!
 
 
 
-**2) This week’s assignment (DUE SATURDAY 1/31 AT NOON)** is to write the following content from your data to the page as we did in class:
+**2. This week’s assignment (DUE SATURDAY 1/31 AT NOON)** is to write the following content from your data to the page as we did in class:
 
 <ul>
 <li>Player Name</li>

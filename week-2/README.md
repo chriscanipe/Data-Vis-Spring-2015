@@ -14,45 +14,45 @@
  ```
 
 
-Work within the template to write the code and work through examples we cover in class.
+ 2. Work within the template to write the code and work through examples we cover in class.
 
-If you’ve added any files to your project, you’ll want to make sure they’re being tracked in Git. We do this by adding them within the local repository.
+ 3. If you’ve added any files to your project, you’ll want to make sure they’re being tracked in Git. We do this by adding them  within the local repository.
 
-```
-$ git add “my-file.json”
-```
-Alternately, we can add all of the untracked files by typing this:
-```
-$ git add .
-```
-(Most of the time the latter will suffice.)
+ ```
+ $ git add “my-file.json”
+ ```
+ Alternately, we can add all of the untracked files by typing this:
+ ```
+ $ git add .
+ ```
+ (Most of the time the latter will suffice.)
 
 
-Commit the changes to your local repository. The commit command requires a comment field indicated with “-am” followed by a note in quotes. Think of this as a note to yourself reminding the future you what you did before saving at this point. The comments will help you make sense of the commit history when viewed on your Git site.
-```
-$ git commit -am “added a new data file and made changes to the css”
-```
+ 4. Commit the changes to your local repository. The commit command requires a comment field indicated with “-am” followed by a note in quotes. Think of this as a note to yourself reminding the future you what you did before saving at this point. The comments will help you make sense of the commit history when viewed on your Git site.
+ ```
+ $ git commit -am “added a new data file and made changes to the css”
+ ```
 
-If you haven’t done it yet, create a remote repository on your git page. This is done by clicking the plus sign next to your name in the upper right of your Git account page. Once created, you’ll want to assign the remote repository to the project on your desktop. This is the link between your working files and your Git page. To assign a remote address:
+ 5. If you haven’t done it yet, create a remote repository on your git page. This is done by clicking the plus sign next to your name in the upper right of your Git account page. Once created, you’ll want to assign the remote repository to the project on your desktop. This is the link between your working files and your Git page. To assign a remote address:
 
-First, check to see what’s currently assigned
-```
-$ git remote show origin
-```
-If it’s not the one you want (it’s probably still assigned to template repo on my Git site), you’ll want to remote it.
-```
-$ git remote rm origin
-```
-Now, assign the one you’ve just created using the link (HTTPS clone URL) on the right rail of your online Git repository.
-```
-$ git remote add origin https://github.com/chriscanipe/my-new-project.git
-```
-Finally, we’ll push our project to our newly created remote repository.
-```
-$ git push origin master
-```
+ First, check to see what’s currently assigned
+ ```
+ $ git remote show origin
+ ```
+ If it’s not the one you want (it’s probably still assigned to template repo on my Git site), you’ll want to remote it.
+ ```
+ $ git remote rm origin
+ ```
+ Now, assign the one you’ve just created using the link (HTTPS clone URL) on the right rail of your online Git repository.
+ ```
+ $ git remote add origin https://github.com/chriscanipe/my-new-project.git
+ ```
+ Finally, we’ll push our project to our newly created remote repository.
+ ```
+ $ git push origin master
+ ```
 
-Miller time!!
+ 6. Miller time!!
 
 
 

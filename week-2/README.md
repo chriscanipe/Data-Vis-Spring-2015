@@ -55,10 +55,10 @@ $ git push origin master
 </li>
 <li>Miller time!!</li>
 
+</ol>
 
 
-
-**2) This week’s assignment** <span style='color: red'>(DUE SATURDAY 1/31 AT NOON)</span> is to write the following content from your data to the page as we did in class:
+**2) This week’s assignment** <span style="color: red">(DUE SATURDAY 1/31 AT NOON)</span> is to write the following content from your data to the page as we did in class:
 
 Player Name
 Player Team

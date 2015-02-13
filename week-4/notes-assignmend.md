@@ -6,9 +6,9 @@
 
 You can use this working example as a reference:
 
-Link: http://chriscanipe.com/data-vis-2015/d3-bars/
+**Link:** http://chriscanipe.com/data-vis-2015/d3-bars/
 
-*Repo: https://github.com/chriscanipe/d3-bars
+**Repo:** https://github.com/chriscanipe/d3-bars
 
 **IN ADDITION**, I'd like you to comment your code. We haven't spent enough time yet with D3 for you to understand everything that's happening, but I'd like to see you take a stab at explaining what's happening. I've added 7 prompts in the working example (see the repo link above). 
 

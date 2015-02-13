@@ -12,6 +12,8 @@ You can use this working example as a reference:
 
 **IN ADDITION**, I'd like you to comment your code. We haven't spent enough time yet with D3 for you to understand everything that's happening, but I'd like to see you take a stab at explaining what's happening. I've added 7 prompts in the working example (see the repo link above). 
 
+**Complete the assignment by committing your changes and pushing them to your Git page, and emailing the link to me and Mike Jenner.**
+
 There are no wrong answers here, other than those that show lack of effort. So give it a shot, tell me how you think it works. It's helpful to Google bits of code. The internet is full of people asking the same questions you have, and just as full of other people willing to compose thoughtful answers. And of course, D3 is a very well documented library. You can find exhuastive and technical answers in the official documentation: https://github.com/mbostock/d3/wiki
 
 Best,

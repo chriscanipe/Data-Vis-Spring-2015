@@ -10,29 +10,28 @@ I've taken the liberty of cleaning up the Excel file and arranging it as a prope
 Steps:
 
 1. Set up a new project using the template
-
-  1. Clone a new version of the template and name is "d3-line-chart"
-  ``` 
-  Ex: $ git clone https://github.com/chriscanipe/web-app-template-simple.git d3-line-chart
-  ```
-  2. Create a new repository on your Git site
-  3. Assign the repository as the remote location in your template
-  ```
-  $ git remote rm origin
-  $ git add origin https://github.com/chriscanipe/d3-line-chart.git
-  ```
-  4. Add your files locally
-  ```
-  $ git add .
-  ```
-  5. Commit your files locally
-  ```
-  $ git commit -am "committing for the first time"
-  ```
-  6. Push your changes to your remote repository
-  ```
-  $ git push origin master
-  ```
+2. Clone a new version of the template and name is "d3-line-chart"
+``` 
+Ex: $ git clone https://github.com/chriscanipe/web-app-template-simple.git d3-line-chart
+```
+3. Create a new repository on your Git site
+4. 3. Assign the repository as the remote location in your template
+```
+$ git remote rm origin
+$ git add origin https://github.com/chriscanipe/d3-line-chart.git
+```
+5. Add your files locally
+```
+$ git add .
+```
+6. Commit your files locally
+```
+$ git commit -am "committing for the first time"
+```
+7. Push your changes to your remote repository
+```
+$ git push origin master
+```
 
 
 

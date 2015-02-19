@@ -10,8 +10,9 @@ I've taken the liberty of cleaning up the Excel file and arranging it as a prope
 Steps:
 
 **Set up a new project using the template:**
-1. Clone a new version of the template and name is "d3-line-chart"
 
+1. Clone a new version of the template and name is "d3-line-chart"
+ 
  ``` 
  Ex: $ git clone https://github.com/chriscanipe/web-app-template-simple.git d3-line-chart
  ```
@@ -45,6 +46,7 @@ Steps:
 3. Paste it into a JSON file in the JavaScript folder of your template.
 
 **Create a line chart using the [d3 Line Chart example](http://bl.ocks.org/mbostock/3883245) as a starting point**
+
 1. Copy and paste the script into your script.js file
 2. Copy and paste the css into your style.css file
 3. Change the ajax call to d3.json and point it at your JSON file

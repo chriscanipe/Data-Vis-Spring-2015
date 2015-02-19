@@ -49,7 +49,7 @@ Steps:
 1. Copy and paste the script into your script.js file
 2. Copy and paste the css into your style.css file
 3. Change the ajax call to d3.json and point it at your JSON file
-4. Change variable names and labels where appropriate in order to load your data
+4. Change variable names and labels where appropriate in order to load your data. It's up to you to choose which field you'd like to plot on your chart.
 
 **Reading:**
 

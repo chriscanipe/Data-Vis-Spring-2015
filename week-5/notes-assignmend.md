@@ -4,7 +4,7 @@
 
 **This week’s assignment (DUE SATURDAY 2/21 AT NOON)** is to make a line chart using [Columbia unemployment data](http://data.bls.gov/timeseries/LAUMT291786000000006?data_tool=XGtable) I pulled from the Bureau of Labor Statistics website.
 
-I've taken the liberty of cleaning up the Excel file and arranging it as a proper time series. Notice the dates and values all live in their own respective columns.
+I've taken the liberty of cleaning up the Excel file and arranging it as a proper time series. Notice the dates and values all live in their own respective columns. You can find the [**Excel file here**](https://github.com/chriscanipe/Data-Vis-Spring-2015/tree/master/week-5).
 
 Steps:
 

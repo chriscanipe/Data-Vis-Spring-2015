@@ -23,15 +23,17 @@ Steps:
  $ git add origin https://github.com/chriscanipe/d3-line-chart.git
  ```
 4. Add your files locally
-
+ 
  ```
  $ git add .
  ```
 5. Commit your files locally
+ 
  ```
  $ git commit -am "committing for the first time"
  ```
 6. Push your changes to your remote repository
+ 
  ```
  $ git push origin master
  ```

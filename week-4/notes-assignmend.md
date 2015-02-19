@@ -1,20 +1,25 @@
 
 
-###Week 3 Notes and Assignment
+###Week 4 Notes and Assignment
 
-**1. This week’s assignment (DUE SATURDAY 1/31 AT NOON)** is to add years and labels to the bar chart we made in class, commit your changes and push the repo to your Git page. Send the link to your repo to me and Mike Jenner:
+**This week’s assignment (DUE SUNDAY 2/15 AT NOON)** is to finish the exercise we started in class. Using the d3 bar chart example <a href="http://bl.ocks.org/mbostock/3885304">here</a> as a starting point, adapt it to show the number of hits (or another stat of your choosing) from your baseball card json.
 
-To help you with this assignment, I’ve created the following reference:
-https://github.com/chriscanipe/baseball-bars
+You can use this working example as a reference:
 
-You can see a published version of the page here:
-http://chriscanipe.com/data-vis-2015/baseball-bars/
+**Link:** http://chriscanipe.com/data-vis-2015/d3-bars/
+
+**Repo:** https://github.com/chriscanipe/d3-bars
+
+**IN ADDITION**, I'd like you to comment your code. We haven't spent enough time yet with D3 for you to understand everything that's happening, but I'd like to see you take a stab at explaining what's happening. I've added 7 prompts in the working example (see the repo link above). 
+
+**Complete the assignment by committing your changes and pushing them to your Git page, and emailing the link to me and Mike Jenner.**
+
+There are no wrong answers here, other than those that show lack of effort. So give it a shot, tell me how you think it works. It's helpful to Google bits of code. The internet is full of people asking the same questions you have, and just as full of other people willing to compose thoughtful answers. And of course, D3 is a very well documented library. You can find exhuastive and technical answers in the official documentation: https://github.com/mbostock/d3/wiki
+
+Best,
+Chris
 
 
-**2. Now that we've spent some time on the foundational elements of HTML, JavaScript and CSS, I'd like you to spend some time with the Google tutorials we talked about in class. These 6 videos run about two hours altogether, but I promise you it's worth it. The JavaScript videos will be especially helpful as we get into more complicated tasks over the next few weeks.
-
-**Google HTML, CSS and JavaScript from the Ground Up**<br/>
-https://www.youtube.com/playlist?list=PL697D36B35F92E9E4
 
 
 

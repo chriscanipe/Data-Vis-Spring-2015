@@ -15,11 +15,12 @@ Set up a new project using the template
 ```
 Ex: $ git clone https://github.com/chriscanipe/web-app-template-simple.git d3-line-chart
 ```
-
 2. Create a new repository on your Git site
 3. Assign the repository as the remote location in your template
-git remote rm origin
-Ex: git add origin https://github.com/chriscanipe/d3-line-chart.git
+```
+$ git remote rm origin
+$ git add origin https://github.com/chriscanipe/d3-line-chart.git
+```
 
 4. Add your files locally
 git add .

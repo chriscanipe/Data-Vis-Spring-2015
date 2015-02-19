@@ -53,9 +53,9 @@ Steps:
 
 ***Reading:***
 All of the [Scott Murray tutorials](http://alignedleft.com/tutorials) are outstanding. If you only read three before class on Tuesday, I recommend these three:
-*[An SVG Primer](http://alignedleft.com/tutorials/d3/an-svg-primer)
-*[Drawing SVGs](http://alignedleft.com/tutorials/d3/drawing-svgs)
-*[Data Types](http://alignedleft.com/tutorials/d3/data-types)
++ [An SVG Primer](http://alignedleft.com/tutorials/d3/an-svg-primer)
++ [Drawing SVGs](http://alignedleft.com/tutorials/d3/drawing-svgs)
++ [Data Types](http://alignedleft.com/tutorials/d3/data-types)
 
 
 

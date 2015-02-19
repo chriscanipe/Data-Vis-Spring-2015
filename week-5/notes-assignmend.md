@@ -12,7 +12,9 @@ Steps:
 Set up a new project using the template
 
 1. Clone a new version of the template and name is "d3-line-chart"
-https://github.com/chriscanipe/web-app-template-simple.git
+```
+Ex: $ git clone https://github.com/chriscanipe/web-app-template-simple.git d3-line-chart
+```
 
 2. Create a new repository on your Git site
 3. Assign the repository as the remote location in your template

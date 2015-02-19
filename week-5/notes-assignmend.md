@@ -2,8 +2,7 @@
 
 ###Week 5 Notes and Assignment
 
-**This week’s assignment (DUE SATURDAY 2/21 AT NOON)** is to make a line chart using Columbia unemployment data I pulled from the Bureau of Labor Statistics website.
-http://data.bls.gov/timeseries/LAUMT291786000000006?data_tool=XGtable
+**This week’s assignment (DUE SATURDAY 2/21 AT NOON)** is to make a line chart using [Columbia unemployment data](http://data.bls.gov/timeseries/LAUMT291786000000006?data_tool=XGtable) I pulled from the Bureau of Labor Statistics website.
 
 I've taken the liberty of cleaning up the Excel file and arranging it as a proper time series. Notice the dates and values all live in their own respective columns.
 

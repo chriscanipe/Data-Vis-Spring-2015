@@ -4,9 +4,9 @@
 
 **This week’s assignment (DUE SATURDAY 2/21 AT NOON)** is to make a line chart using [Columbia unemployment data](http://data.bls.gov/timeseries/LAUMT291786000000006?data_tool=XGtable) I pulled from the Bureau of Labor Statistics website.
 
-I've taken the liberty of cleaning up the Excel file and arranging it as a proper time series. Notice the dates and values all live in their own respective columns.
+I've taken the liberty of cleaning up the Excel file and arranging it as a proper time series. Notice the dates and values all live in their own respective columns. You can find the [**Excel file here**](https://github.com/chriscanipe/Data-Vis-Spring-2015/tree/master/week-5) and the [**line chart reference here**](http://bl.ocks.org/mbostock/3883245).
 
-Steps:
+**STEPS**
 
 **Set up a new project using the template:**
 
@@ -49,6 +49,18 @@ Steps:
 1. Copy and paste the script into your script.js file
 2. Copy and paste the css into your style.css file
 3. Change the ajax call to d3.json and point it at your JSON file
-4. Change variable names and labels where appropriate in order to load your data
+4. Change variable names and labels where appropriate in order to load your data. It's up to you to choose which field you'd like to plot on your chart.
+
+**Reading:**
+
+All of the [Scott Murray tutorials](http://alignedleft.com/tutorials) are outstanding. If you only read three before class on Tuesday, I recommend these three:
++ [An SVG Primer](http://alignedleft.com/tutorials/d3/an-svg-primer)
++ [Drawing SVGs](http://alignedleft.com/tutorials/d3/drawing-svgs)
++ [Data Types](http://alignedleft.com/tutorials/d3/data-types)
+
+
+
+
+
 
 

@@ -32,6 +32,6 @@ You can sketch the chart however you'd like. If you're ore comfortable using Pho
 The sketch should indicate which data points you plan to chart. For example, the line chart we went over in class plotted Columbia's unemployment rate for every month since 2004. Time was on the x-axis, and the unemployment rate was on the y-axis. If you're using tooltips to allow users to interact with and explore the data, your sketch should reflect that as well.
 
 
-![An example:](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![An example:](https://github.com/chriscanipe/Data-Vis-Spring-2015/blob/master/week-6/sketch.jpg "Logo Title Text 1")
 
 

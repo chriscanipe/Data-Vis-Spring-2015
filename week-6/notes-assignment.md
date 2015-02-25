@@ -10,9 +10,11 @@ If you haven't already, please send a project proposal to myself and Mike Jenner
 
 Your **written description** should answer three questions:
 
-1) What is the dataset you'd like to visualize?
-2) What story does it tell?
-3) How will your chart convey that story to readers?
+1. What is the dataset you'd like to visualize?
+
+2. What story does it tell?
+
+3. How will your chart convey that story to readers?
 
 The decription should include a link to a chart similar to the one you're proposing. This will most likely serve as the starting point for you project. Two great places to look:
 

@@ -16,7 +16,7 @@ Your **written description** should answer three questions:
 
 3. How will your chart convey that story to readers?
 
-The decription should include a link to a chart similar to the one you're proposing. This will most likely serve as the starting point for you project.
+The decription should **include a link** to a chart similar to the one you're proposing. This will most likely serve as the starting point for you project.
 
 Two great places to look:
 
